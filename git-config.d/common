@@ -1,0 +1,35 @@
+# vim:set ft=gitconfig:
+
+[branch]
+	autoSetupMerge = true
+	autoSetupRebase = always
+
+[color "grep"]
+	# to match standard grep colors
+	filename = magenta
+	linenumber = green
+
+[color "status"]
+	header = yellow
+
+[core]
+	editor = vim
+	pager = less --quit-if-one-screen --no-init
+
+[diff]
+	colorMoved = dimmed_zebra
+	renameLimit = 0
+	renames = copies
+
+[init]
+	defaultBranch = main
+
+[push]
+	default = upstream
+
+[rebase]
+	autoStash = true
+	missingCommitsCheck = warn
+
+[tag]
+	sort = creatordate
