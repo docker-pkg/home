@@ -1,0 +1,36 @@
+[submodule "vim-pack-docker-pkg/start/jellybeans"]
+	path = vim-pack-docker-pkg/start/jellybeans
+	url = https://github.com/nanotech/jellybeans.vim.git
+[submodule "vim-pack-docker-pkg/start/vim-afterimage"]
+	path = vim-pack-docker-pkg/start/vim-afterimage
+	url = https://github.com/tpope/vim-afterimage.git
+[submodule "vim-pack-docker-pkg/start/vim-eunuch"]
+	path = vim-pack-docker-pkg/start/vim-eunuch
+	url = https://github.com/tpope/vim-eunuch.git
+[submodule "vim-pack-docker-pkg/start/vim-sensible"]
+	path = vim-pack-docker-pkg/start/vim-sensible
+	url = https://github.com/tpope/vim-sensible.git
+[submodule "vim-pack-docker-pkg/start/vim-vividchalk"]
+	path = vim-pack-docker-pkg/start/vim-vividchalk
+	url = https://github.com/tpope/vim-vividchalk.git
+[submodule "vim-pack-docker-pkg/start/mojo.vim"]
+	path = vim-pack-docker-pkg/start/mojo.vim
+	url = https://github.com/yko/mojo.vim.git
+[submodule "vim-pack-docker-pkg/start/jenkinsfile"]
+	path = vim-pack-docker-pkg/start/jenkinsfile
+	url = https://github.com/martinda/Jenkinsfile-vim-syntax.git
+[submodule "vim-pack-docker-pkg/start/nginx.vim"]
+	path = vim-pack-docker-pkg/start/nginx.vim
+	url = https://github.com/chr4/nginx.vim.git
+[submodule "vim-pack-docker-pkg/start/vim-perl"]
+	path = vim-pack-docker-pkg/start/vim-perl
+	url = https://github.com/vim-perl/vim-perl.git
+[submodule "vim-pack-docker-pkg/start/vim-ps1"]
+	path = vim-pack-docker-pkg/start/vim-ps1
+	url = https://github.com/PProvost/vim-ps1.git
+[submodule "vim-pack-docker-pkg/start/vim-docker"]
+	path = vim-pack-docker-pkg/start/vim-docker
+	url = https://github.com/docker-pkg/vim-docker.git
+[submodule "vim-pack-docker-pkg/start/vim-jq"]
+	path = vim-pack-docker-pkg/start/vim-jq
+	url = https://github.com/bfrg/vim-jq.git
